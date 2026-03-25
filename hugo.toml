@@ -1,4 +1,11 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = 'https://BinhThuongTTT.github.io/hugo_blog_project/'
+languageCode = 'vi'
+title = 'LLM Research Lab'
 theme = 'PaperMod'
+
+[params]
+    env = "production"
+    title = "LLM Research Lab"
+    description = "Nơi lưu trữ các phân tích và nghiên cứu về Large Language Models"
+    author = "BinhThuongTTT"
+    ShowCodeCopyButtons = true # Hiện nút copy code (rất quan trọng cho blog công nghệ)
